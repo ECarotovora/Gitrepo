@@ -1,2 +1,3 @@
 Adding another line to the git repo \
-I add another line to see the differences
+I add another line to see the differences\\
+Am adding another line to see how things might turn out\\
